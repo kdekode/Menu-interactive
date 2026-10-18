@@ -20,7 +20,7 @@ export function Header(){
             <Menu />
         )}
 
-        <header className="flex justify-between p-5">
+        <header className="flex justify-between p-5 z-9">
             <div className="w-1/2">
                 @Logo
             </div>
